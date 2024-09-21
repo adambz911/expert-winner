@@ -1,1 +1,1 @@
-print('hello my friends')
+print('slm 3likom')
